@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-23 Jan Tuesday.md",
+                "file": "Obsidian Sync.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2024-01-23 Jan Tuesday.md",
+                "file": "Obsidian Sync.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/2024-01-23 Jan Tuesday.md",
+            "file": "Obsidian Sync.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily/2024-01-23 Jan Tuesday.md",
+            "file": "Obsidian Sync.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,8 +157,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily/2024-01-23 Jan Tuesday.md"
+            "file": "Obsidian Sync.md"
           }
+        }
+      },
+      {
+        "id": "cde8d3389176b647",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
         }
       }
     ],
@@ -176,11 +184,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7eaa39048b0d757e",
+  "active": "4fab406d4cb4f486",
   "lastOpenFiles": [
+    "2024-01-23.md",
+    "2024-01-24.md",
     "Aspire.md",
     "Daily/2024-01-23 Jan Tuesday.md",
-    "Daily/2024-04-16 April Tuesday.md",
-    "2024-01-23.md"
+    "Obsidian Sync.md",
+    "Daily/2024-04-16 April Tuesday.md"
   ]
 }
