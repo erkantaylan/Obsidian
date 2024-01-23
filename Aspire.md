@@ -28,4 +28,3 @@ How: on Apphost.Program.cs you give {name} to your api service and in the web pr
 ```C#
 builder.Services.AddHttpClient<WeatherApiClient>(client => client.BaseAddress = new("http://{name}"));
 ```
-
