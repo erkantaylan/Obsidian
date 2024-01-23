@@ -1,5 +1,8 @@
 [
   "obsidian-git",
   "table-editor-obsidian",
-  "obsidian-mind-map"
+  "obsidian-mind-map",
+  "dataview",
+  "calendar",
+  "obsidian-tasks-plugin"
 ]
