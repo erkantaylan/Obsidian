@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aspire.md",
+                "file": "2024-01-24.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "f86343f69a55bb07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aspire.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aspire.md",
+                "file": "2024-01-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aspire.md",
+                "file": "2024-01-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aspire.md"
+                "file": "2024-01-24.md"
               }
             }
           },
@@ -149,8 +136,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "dea69988f7584e60",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -168,12 +164,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d449fefdcba5969f",
+  "floating": {
+    "id": "08d2505dc881f0b6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e062a2eaeaa926b7",
+        "type": "window",
+        "children": [
+          {
+            "id": "58fe3ac5c2a81206",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "66fb57b362638253",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Obsidian Sync.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 481,
+        "y": 148,
+        "width": 1121,
+        "height": 1052,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "4e23c68cfa1e7a9d",
   "lastOpenFiles": [
-    "New Text Document.txt",
-    "Daily/2024-01-23 Jan Tuesday.md",
-    "Daily/2024-04-16 April Tuesday.md",
+    "Obsidian Sync.md",
+    "2024-01-24.md",
     "Aspire.md",
+    "2024-W04.md",
+    "Daily/2024-04-16 April Tuesday.md",
+    "2024-01-23.md",
+    "Daily/2024-01-23 Jan Tuesday.md",
+    "New Text Document.txt",
     "Daily",
     "My Folder/My Note.md",
     "DotNet",
