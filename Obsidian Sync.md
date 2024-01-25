@@ -36,4 +36,6 @@ If it gives error at `ssh-keygen` run `pkg up` https://github.com/termux/termux-
 
 [termux and git installation](https://medium.com/tech-notes-and-geek-stuff/git-management-on-android-30a8b4a23e1c)
 
-Rest is go to github/gitlub/bitbucket add your .pub key to server and start cloningP
+Rest is go to github/gitlub/bitbucket add your .pub key to server and start cloning
+
+Sadly when you install obsidian on mobile. it will modify files. when you install plugins it changes as well. So don't forget to commit and push back from your mobile too.

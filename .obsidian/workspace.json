@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-24.md",
+                "file": "Obsidian Sync.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "75b9357a25b8c688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/git pull hint fix.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9c4b3c63ac90f29b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/git useful aliases, lesser known commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3f73b07ee4aaedb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-25.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "959fcd354e9ae007",
@@ -86,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-24.md",
+                "file": "2024-01-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-24.md",
+                "file": "2024-01-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-24.md"
+                "file": "2024-01-25.md"
               }
             }
           },
@@ -147,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -165,47 +201,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "08d2505dc881f0b6",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e062a2eaeaa926b7",
-        "type": "window",
-        "children": [
-          {
-            "id": "58fe3ac5c2a81206",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "66fb57b362638253",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Obsidian Sync.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 481,
-        "y": 148,
-        "width": 1121,
-        "height": 1052,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "4e23c68cfa1e7a9d",
+  "active": "d3f73b07ee4aaedb",
   "lastOpenFiles": [
-    "Obsidian Sync.md",
     "2024-01-24.md",
+    "2024-01-25.md",
+    "Git/git useful aliases, lesser known commands.md",
+    "Elastic Kibana Logstash.md",
+    "Git/git pull hint fix.md",
+    "Git",
+    "Obsidian Sync.md",
     "Aspire.md",
     "2024-W04.md",
     "Daily/2024-04-16 April Tuesday.md",
