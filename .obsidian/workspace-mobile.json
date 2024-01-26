@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Sync.md",
+                "file": "Elastic Kibana Logstash.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Obsidian Sync.md",
+                "file": "Elastic Kibana Logstash.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Sync.md",
+            "file": "Elastic Kibana Logstash.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Obsidian Sync.md",
+            "file": "Elastic Kibana Logstash.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Obsidian Sync.md"
+            "file": "Elastic Kibana Logstash.md"
           }
         }
       },
@@ -186,6 +186,7 @@
   },
   "active": "4fab406d4cb4f486",
   "lastOpenFiles": [
+    "Daily/2024-01-26.md",
     "2024-01-23.md",
     "2024-01-24.md",
     "Aspire.md",
