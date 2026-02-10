@@ -1,4 +1,0 @@
-- [ ] Go to Gym 🔁 every day 🛫 2024-01-25
-- [x] Go to Gym 🔁 every day 🛫 2024-01-24 ✅ 2024-01-25
-- [ ] Go to Dance ⏫ 🔁 every week 🛫 2024-01-31
-- [x] Go to Dance ⏫ 🔁 every week 🛫 2024-01-24 ✅ 2024-01-25

@@ -11,38 +11,17 @@
             "id": "45a0b292a5676ebf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Terminal Zsh Auto suggestions Setup.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "aba7ce30b6cc078d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Terminal Zsh Auto suggestions Setup"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,24 +205,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c104b5c59caa1f14",
+  "active": "45a0b292a5676ebf",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Untitled.md",
-    "Daily/2026-02-10.md",
-    "2026-W07.md",
-    "Daily/2024-01-23.md",
-    "Daily/2024-01-26.md",
-    "Aspire.md",
     "Git/git useful aliases, lesser known commands.md",
     "Git/git pull hint fix.md",
+    "Terminal Zsh Auto suggestions Setup.md",
+    "Elastic Kibana Logstash.md",
+    "Aspire.md",
+    "2026-W07.md",
+    "Daily/2026-02-10.md",
+    "Obsidian Sync.md",
+    "Repeat.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Daily/2024-01-23.md",
+    "Daily/2024-01-26.md",
     "Daily/2024-04-16 April Tuesday.md",
     "Daily/2024-01-25.md",
     "Daily/2024-01-31.md",
-    "Elastic Kibana Logstash.md",
-    "Obsidian Sync.md",
-    "Repeat.md",
-    "Terminal Zsh Auto suggestions Setup.md",
     "Welcome.md"
   ]
 }
