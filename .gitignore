@@ -1,1 +1,8 @@
-.obsidian/workspace
+universe/.obsidian/workspace.json
+universe/.obsidian/workspace-mobile.json
+universe/.trash/
+universe/.stfolder*/
+
+# sync artifacts
+.sync.log
+.sync.lock

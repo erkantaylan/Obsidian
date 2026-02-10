@@ -1,0 +1,8 @@
+[Unit]
+Description=Obsidian vault git sync
+
+[Service]
+Type=oneshot
+ExecStart=/home/kamyon/Documents/obsidian-vault/universe/scripts/obsidian-sync.sh
+Environment=HOME=/home/kamyon
+Environment=PATH=/usr/local/bin:/usr/bin:/bin
