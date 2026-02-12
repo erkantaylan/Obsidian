@@ -6,19 +6,37 @@
       {
         "id": "4a66a77e13211461",
         "type": "tabs",
+        "dimension": 28.395860284605433,
+        "children": [
+          {
+            "id": "93d3ac67a458b201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ancient Medicine/Asclepion of Pergamum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Asclepion of Pergamum"
+            }
+          }
+        ]
+      },
+      {
+        "id": "acef309db75520ae",
+        "type": "tabs",
+        "dimension": 71.60413971539457,
         "children": [
           {
             "id": "45a0b292a5676ebf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Galen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Galen"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 278.5
   },
   "right": {
     "id": "2e8c897168531bf5",
@@ -190,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,11 +226,32 @@
   },
   "active": "45a0b292a5676ebf",
   "lastOpenFiles": [
+    "Ancient Medicine/Marcus Aurelius (121–180).md.tmp.2215697.1770900235265",
+    "Ancient Medicine/Ibn Sina (980–1037).md.tmp.2215697.1770900234294",
+    "Ancient Medicine/Ibn Sina (980–1037).md.tmp.2215697.1770900233207",
+    "Ancient Medicine/Hippocrates (c. 460–370 BC).md.tmp.2215697.1770900232155",
+    "Ancient Medicine/Hippocrates (c. 460–370 BC).md.tmp.2215697.1770900231019",
+    "Ancient Medicine/Aeschrion of Pergamon (2nd century AD).md.tmp.2215697.1770900227329",
+    "Ancient Medicine/Aeschrion of Pergamon (2nd century AD).md",
+    "Ancient Medicine/Asclepion of Pergamum.md.tmp.2215697.1770900225153",
+    "Ancient Medicine/Asclepion of Pergamum.md",
+    "Ancient Medicine/Asclepion of Pergamum.md.tmp.2215697.1770900224022",
+    "Ancient Medicine/Galen (129–216).md.tmp.2215697.1770900222846",
+    "Ancient Medicine/Galen (129–216).md.tmp.2215697.1770900221999",
+    "Ancient Medicine/Galen (129–216).md.tmp.2215697.1770900221019",
+    "Ancient Medicine/Marcus Aurelius (121–180).md",
+    "Ancient Medicine/Ibn Sina (980–1037).md",
+    "Ancient Medicine/Hippocrates (c. 460–370 BC).md",
+    "Ancient Medicine/Galen (129–216).md",
+    "Aeschrion of Pergamon.md",
+    "Asclepion of Pergamum.md",
+    "Galen.md",
+    "Marcus Aurelius.md",
+    "Ibn Sina.md",
+    "Hippocrates.md",
     "Terminal Zsh Auto suggestions Setup.md",
     "Git/git useful aliases, lesser known commands.md",
     "Git/git pull hint fix.md",
-    "Galen.md",
-    "Galen.md.tmp.2215697.1770896926432",
     "Elastic Kibana Logstash.md",
     "Aspire.md",
     "2026-W07.md",
@@ -222,9 +262,6 @@
     "Untitled.md",
     "Daily/2024-01-23.md",
     "Daily/2024-01-26.md",
-    "Daily/2024-04-16 April Tuesday.md",
-    "Daily/2024-01-25.md",
-    "Daily/2024-01-31.md",
-    "Welcome.md"
+    "Daily/2024-04-16 April Tuesday.md"
   ]
 }
