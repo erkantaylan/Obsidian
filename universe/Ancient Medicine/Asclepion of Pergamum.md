@@ -1,3 +1,11 @@
+---
+tags:
+  - ancient-medicine
+  - healing-temple
+  - pergamum
+  - ancient-greece
+---
+
 # Asclepion of Pergamum
 
 Ancient healing temple and medical center located at the base of the Pergamon acropolis (modern-day Bergama, Turkey). One of the most important healing sanctuaries of the ancient world, dedicated to **Asclepius**, the god of healing.

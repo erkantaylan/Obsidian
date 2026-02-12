@@ -1,3 +1,11 @@
+---
+tags:
+  - ancient-medicine
+  - physician
+  - ancient-greece
+  - philosophy
+---
+
 # Hippocrates (c. 460 - c. 370 BC)
 
 Ancient Greek physician from the island of **Kos**, widely regarded as the **"Father of Medicine"**. He fundamentally changed medicine by separating it from superstition and religion.

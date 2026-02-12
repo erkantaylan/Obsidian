@@ -1,3 +1,11 @@
+---
+tags:
+  - ancient-medicine
+  - physician
+  - pergamum
+  - ancient-greece
+---
+
 # Aeschrion of Pergamon (2nd century AD)
 
 Ancient Greek physician from Pergamon (modern-day Bergama, Turkey). One of [[Galen (129–216)|Galen]]'s early tutors and a member of the **Empirici** medical sect.

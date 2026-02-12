@@ -1,3 +1,11 @@
+---
+tags:
+  - roman-empire
+  - stoicism
+  - philosophy
+  - emperor
+---
+
 # Marcus Aurelius (121 - 180)
 
 Roman Emperor from 161 to 180 AD and **Stoic philosopher**. The last of the **Five Good Emperors** and the last emperor of the **Pax Romana**.

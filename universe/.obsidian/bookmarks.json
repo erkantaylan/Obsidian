@@ -5,6 +5,41 @@
       "ctime": 1706017966023,
       "path": "Daily/2024-04-16 April Tuesday.md",
       "title": "Beethoven ve Daha Fazlası"
+    },
+    {
+      "type": "graph",
+      "ctime": 1770900414062,
+      "title": "Ancient Medicine",
+      "options": {
+        "collapse-filter": false,
+        "search": "",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "path:\"Ancient Medicine\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 14048348
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": true,
+        "textFadeMultiplier": -2.6,
+        "nodeSizeMultiplier": 1.58020833333333,
+        "lineSizeMultiplier": 1.22291666666667,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 1.0519895055086441,
+        "close": false
+      }
     }
   ]
 }

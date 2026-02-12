@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"d4af12ae8699f7fe","x":60,"y":-460,"width":440,"height":440,"type":"file","file":"Ancient Medicine/Asclepion of Pergamum.md"},
+		{"id":"003c087aadbb76f2","x":-580,"y":-460,"width":500,"height":440,"type":"file","file":"Ancient Medicine/Aeschrion of Pergamon (2nd century AD).md"}
+	],
+	"edges":[]
+}
