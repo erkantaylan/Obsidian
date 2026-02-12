@@ -1,8 +1,5 @@
 [
-  "table-editor-obsidian",
   "obsidian-mind-map",
-  "obsidian-tasks-plugin",
-  "calendar",
-  "dataview",
-  "open-in-terminal"
+  "open-in-terminal",
+  "persistent-graph"
 ]
