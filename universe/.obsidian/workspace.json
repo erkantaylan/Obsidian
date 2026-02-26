@@ -6,7 +6,7 @@
       {
         "id": "4a66a77e13211461",
         "type": "tabs",
-        "dimension": 43.838604143947656,
+        "dimension": 43.83860414394766,
         "children": [
           {
             "id": "93d3ac67a458b201",
@@ -27,7 +27,7 @@
       {
         "id": "acef309db75520ae",
         "type": "tabs",
-        "dimension": 56.161395856052344,
+        "dimension": 56.16139585605234,
         "children": [
           {
             "id": "45a0b292a5676ebf",
@@ -200,8 +200,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "bases:Create new base": false
     }
   },
   "active": "45a0b292a5676ebf",
