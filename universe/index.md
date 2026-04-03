@@ -18,7 +18,9 @@ Notes on the physicians, healers, and healing traditions of the ancient world �
 - [[Asclepion of Pergamum]] — ancient healing temple
 - [[Aeschrion of Pergamon (2nd century AD)|Aeschrion of Pergamon]] — Galen's early tutor
 
-### Git & Terminal
+### Unix Tools
+Terminal apps, shell setup, and CLI utilities — [[Unix/index|full index]].
+
+### Git
 - [[Git/git useful aliases, lesser known commands|Git aliases & lesser-known commands]]
 - [[Git/git pull hint fix|Git pull hint fix]]
-- [[Terminal Zsh Auto suggestions Setup|Zsh auto-suggestions setup]]
